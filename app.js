@@ -11,7 +11,6 @@ client.on("ready", () =>
 {
   // This event will run if the bot starts, and logs in, successfully.
   console.log(`Bot has started, with ${client.users.size} users, in ${client.channels.size} channels.`); 
-  client.user.setGame(`on ${client.guilds.size} servers`);
 });
 
 client.on("message", async message => 
