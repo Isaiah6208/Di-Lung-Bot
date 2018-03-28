@@ -4,5 +4,5 @@ This bot was created using Node.js / JavaScript. NOTE: This bot has a few NSFW l
 To use this bot, just replace your personal discord bot token with the one in the config.json file.
 ![alt text](https://yt3.ggpht.com/-ZHsxJnrdAew/AAAAAAAAAAI/AAAAAAAAAAA/y88nyhPf1wA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg)
 
-[url=https://ibb.co/bTmjAS][img]https://preview.ibb.co/cNmUc7/github_pic_1.jpg[/img][/url]
+![alt text]([url=https://ibb.co/bTmjAS][img]https://preview.ibb.co/cNmUc7/github_pic_1.jpg[/img][/url])
 
