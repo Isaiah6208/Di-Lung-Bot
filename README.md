@@ -5,4 +5,4 @@ To use this bot, just replace your personal discord bot token with the one in th
 ![alt text](https://yt3.ggpht.com/-ZHsxJnrdAew/AAAAAAAAAAI/AAAAAAAAAAA/y88nyhPf1wA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg)
 
 
-![alt text](https://imgur.com/a/5xKeA)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5xKeA"><a href="//imgur.com/5xKeA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
