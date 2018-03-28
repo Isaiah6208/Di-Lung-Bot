@@ -6,3 +6,6 @@ To use this bot, just replace your personal discord bot token with the one in th
 
 ![alt text](https://preview.ibb.co/e2SoLS/github_pic_1.jpg)
 
+![alt text](https://preview.ibb.co/nGjUS7/github_pic_2.jpg)
+
+
