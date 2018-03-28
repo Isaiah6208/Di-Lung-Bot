@@ -8,3 +8,4 @@ To use this bot, just replace your personal discord bot token with the one in th
 
 ![alt text](https://preview.ibb.co/ipmR77/github_pic_2.jpg)
 
+![alt text](https://preview.ibb.co/hX3ES7/github_pic_3.jpg)
